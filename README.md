@@ -1,16 +1,9 @@
-# shoppinglist
+🛒 Grocery List App 
 
-A new Flutter project.
+A simple and clean Grocery List app built using Flutter and Firebase Realtime Database. Users can add grocery items with a title, quantity, and category (like vegetables, fruits, sweets, etc.) and view the live list in real time.
 
-## Getting Started
+🧱 Tech Stack
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Front-end)
+- Firebase Realtime Database (Back-end)
+- Dart (Programming Language)
